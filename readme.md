@@ -18,6 +18,10 @@
 - Matplotlib and Plotly were used to visualize state-wise comparison.
 
 # Key Insights:
+- During the 2008-09 Financial crisis, All the U.S states had their unemployment rate peak with some exceeding around 12-15%.
+- California, Michigan and Nevada were the most affected by labor market stress.
+- While Unemployment was high, labor force participation rates displayed a gradual upward or stabilizing trend.
+- By 2010, a number of states began to show early signs of labor market recovery.
 
 
 # Tools & Skills:
@@ -26,4 +30,5 @@
 - Visualization: Matplotlib & Plotly
 - Time-Series Analysis
 - EDA(Exploratory Data Analysis)
+
 
